@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.27](https://github.com/btseee/cspell-dicts-mn/compare/@cspell/dict-golang@6.0.26...@cspell/dict-golang@6.0.27) (2026-01-18)
+
+
+### Updates and Bug Fixes
+
+* Add more terms to software/company dictionaries ([#5093](https://github.com/btseee/cspell-dicts-mn/issues/5093)) ([35393f9](https://github.com/btseee/cspell-dicts-mn/commit/35393f921cbf7ee47bb8a027697211c61a76fa1c))
+* Add software terms ([#4893](https://github.com/btseee/cspell-dicts-mn/issues/4893)) ([fa94b2e](https://github.com/btseee/cspell-dicts-mn/commit/fa94b2ed72fcae3a7e4194915a752b271a0c31fc))
+* Encorporate more sw dev terms ([#5116](https://github.com/btseee/cspell-dicts-mn/issues/5116)) ([2a080b7](https://github.com/btseee/cspell-dicts-mn/commit/2a080b78f1cc164d75a897d89d4416fc84138b46))
+* Improve install documentation ([#4640](https://github.com/btseee/cspell-dicts-mn/issues/4640)) ([ce83729](https://github.com/btseee/cspell-dicts-mn/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [6.0.26](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-golang@6.0.25...@cspell/dict-golang@6.0.26) (2026-01-03)
 
 
