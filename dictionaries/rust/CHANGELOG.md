@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.2.0](https://github.com/btseee/cspell-dicts-mn/compare/@cspell/dict-rust@4.1.1...@cspell/dict-rust@4.2.0) (2026-01-18)
+
+
+### Features
+
+* Introduce a rust crates dictionary ([#5094](https://github.com/btseee/cspell-dicts-mn/issues/5094)) ([77ae7f1](https://github.com/btseee/cspell-dicts-mn/commit/77ae7f116f63c7482f0abc9aa5577b0afbadb1a8))
+
+
+### Updates and Bug Fixes
+
+* Add `dalek` to rust crates ([#5103](https://github.com/btseee/cspell-dicts-mn/issues/5103)) ([1cda114](https://github.com/btseee/cspell-dicts-mn/commit/1cda11419bfc92a39645b585b96d612171ea89f4))
+* Add more rust crates ([#5099](https://github.com/btseee/cspell-dicts-mn/issues/5099)) ([49b73b5](https://github.com/btseee/cspell-dicts-mn/commit/49b73b5c90dfcea41bfdaa25303861deccff459a))
+* Add more rust terms ([#5133](https://github.com/btseee/cspell-dicts-mn/issues/5133)) ([224ecf2](https://github.com/btseee/cspell-dicts-mn/commit/224ecf28c50fd5bb75f25be824bdf57776f130e3))
+* Adjust the layout of the rust dictionary ([#5101](https://github.com/btseee/cspell-dicts-mn/issues/5101)) ([a0a9719](https://github.com/btseee/cspell-dicts-mn/commit/a0a971923ee04e1f4d4b6a5b7bc86170cf17511c))
+* Improve install documentation ([#4640](https://github.com/btseee/cspell-dicts-mn/issues/4640)) ([ce83729](https://github.com/btseee/cspell-dicts-mn/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [4.1.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-rust@4.1.0...@cspell/dict-rust@4.1.1) (2026-01-08)
 
 
